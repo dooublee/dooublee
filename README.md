@@ -5,5 +5,6 @@
 🧠 Passionate about building real projects and learning by doing  
 🎯 Goal: Become a full-stack web developer
 
+## 📊 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dooublee&show_icons=true&theme=radical)
 
