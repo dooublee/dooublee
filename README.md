@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdesel
 
-<!--
-**dooublee/dooublee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇲🇦 From Morocco | 👨‍💻 Beginner in Programming
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning:
+⚛️ C Language (Logic, Variables, Functions...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Next Step:
+🌐 Start learning Web Development (HTML, CSS, JS)
+
+### 🛠️ Goals:
+🚀 Build simple projects
+🧑‍💻 Become a full-stack web developer
+
+### 📫 Contact:
+✉️ Email: abdessamad4804@gmail.com
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dooublee&show_icons=true&theme=radical)
+
