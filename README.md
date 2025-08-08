@@ -6,5 +6,6 @@
 🎯 Goal: Become a full-stack web developer
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dooublee&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=dooublee&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dooublee&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
